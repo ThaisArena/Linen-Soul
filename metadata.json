@@ -1,0 +1,6 @@
+{
+  "name": "Linen & Soul",
+  "description": "Sleepwear e loungewear sofisticado em fibras 100% naturais. Feito no Brasil com corte contemporâneo, respirabilidade superior e tamanhos do P ao GG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
